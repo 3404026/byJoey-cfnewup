@@ -1,5 +1,5 @@
-// CFnew - 终端 vccc
-// 版本: vccc
+// CFnew - 终端 vvv
+// 版本: vvv
 import { connect as 连接 } from 'cloudflare:sockets';
 const 基础64文本解码器 = new TextDecoder();
 function 解码64(文本) {
