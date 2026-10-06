@@ -1021,8 +1021,8 @@ export default {
           const 语言值661 = 是否值664 ? 'fa-IR' : 'zh-CN';
           const 本地值660 = {
             zh: {
-              title: '终端 v3.1',
-              terminal: '终端 v3.1',
+              title: '终端 v3.1111',
+              terminal: '终端 v3.1111',
               congratulations: '恭喜你来到这',
               enterU: '请输入你U变量的值',
               enterD: '请输入你D变量的值',
