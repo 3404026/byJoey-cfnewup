@@ -4385,7 +4385,7 @@ async function 处理订阅值(请求241, 用户240 = null) {
         FI: '🇫🇮 芬兰',
         GB: '🇬🇧 英国'
       },
-      terminal: '终端 v3.1',
+      terminal: '终端 v3.1111',
       githubProject: 'GitHub 项目',
       优选工具: '优选工具',
       autoDetectClient: '自动识别',
